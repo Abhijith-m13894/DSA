@@ -1,4 +1,4 @@
-package basics;
+package dsa;
 
 public class MainClass {
 
