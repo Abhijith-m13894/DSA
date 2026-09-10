@@ -7,14 +7,18 @@ package problems.leetcode;
  * 
  * NeetCode 150: No
  * 
- * Category: Arrays Pattern: Array Traversal / Carry Propagation
+ * Category: Arrays
  * 
- * Difficulty: Easy
+ * Data Structure: Array
+ * 
+ * Pattern: Right-to-Left Traversal / Carry Propagation
  * 
  * Problem: Given a large integer represented as an array of digits, increment
  * the integer by one and return the resulting array.
  *
  * Example: Input: [1, 2, 3] Output: [1, 2, 4] & Input= [9] Output: [1,0]
+ * 
+ * Difficulty: Easy
  * 
  * Time Complexity: O(n)
  *
