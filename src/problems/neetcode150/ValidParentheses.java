@@ -56,11 +56,7 @@ public class ValidParentheses {
                 }
             }
 		}
-		char[] aa = new char[] {};
-		aa[]
         return stack.isEmpty();
- 
 	}
-
 	
 }
